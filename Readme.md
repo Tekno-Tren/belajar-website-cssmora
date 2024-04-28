@@ -5,4 +5,4 @@
 
 ## Materi dan Penugasan
 
-Semua materi pertemuan bisa diakses di [wiki repo ini](https://github.com/pmii1011/belajar-website-cssmora/wiki)
+Semua materi pertemuan bisa diakses di [wiki repo ini](https://github.com/Tekno-Tren/belajar-website-cssmora/wiki)
